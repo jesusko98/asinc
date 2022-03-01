@@ -1,0 +1,19 @@
+{
+  "name": "asyncjs",
+  "version": "1.0.0",
+  "description": "Asincronismo JS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jesusko98/asinc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesusko98/asinc/issues"
+  },
+  "homepage": "https://github.com/jesusko98/asinc#readme"
+}
